@@ -95,14 +95,14 @@ Design Flow
 
 code links : 
 
-   -->  Verilog ( .v file ) :
+   -->  Verilog ( .v file ) :  (https://github.com/dinesh-jonnalagadda/8-x-8-multiplier-using-dadda-algorithm/blob/main/dadda8x8.v)
 
 
-   -->  Testbench ( .v file ) :
+   -->  Testbench ( .v file ) :    (https://github.com/dinesh-jonnalagadda/8-x-8-multiplier-using-dadda-algorithm/blob/main/tb_dadda8x8.v)
 
-   -->  TCL file ( .tcl file ) :     ( https://github.com/dinesh-jonnalagadda/8-x-8-multiplier-using-dadda-algorithm/blob/f0cbdc6c9b7ca20deccd1e07405060136181d454/run.tcl )
+   -->  TCL file ( .tcl file ) :     (https://github.com/dinesh-jonnalagadda/8-x-8-multiplier-using-dadda-algorithm/blob/f0cbdc6c9b7ca20deccd1e07405060136181d454/run.tcl)
    
-   -->  Input_Constraints ( .sdc file ) : 
+   -->  Input_Constraints ( .sdc file ) :   (https://github.com/dinesh-jonnalagadda/8-x-8-multiplier-using-dadda-algorithm/blob/main/constraints_input.sdc)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RTL simulation :
