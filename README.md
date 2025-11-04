@@ -154,6 +154,10 @@ This section summarizes the synthesis results (Area, Timing, and Power) for the 
 | Design Type             | Semi-Custom (Cadence Genus)  | Synthesized successfully   |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3D layout view :
+<img width="1266" height="933" alt="Screenshot from 2025-11-02 10-46-08" src="https://github.com/user-attachments/assets/1e098a22-f186-4846-8796-8088dc91dd94" />
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conclusion 
 
 The 8×8 Dadda multiplier was successfully designed and synthesized, achieving low area, low power, and competitive performance. By using controlled partial-product reduction stages, the design minimizes hardware overhead while maintaining high speed. This makes the Dadda architecture a strong choice for ASIC and high-performance digital arithmetic systems.
