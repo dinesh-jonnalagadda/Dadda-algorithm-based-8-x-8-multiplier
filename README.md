@@ -1,4 +1,4 @@
-# Low Power 8 x 8 Multiplier Design using Dadda Algorithm
+# 8 x 8 Multiplier Design using Dadda Algorithm - Low Power , High speed , Area efficient
 
 A high-speed, area-efficient hardware multiplier designed using the Dadda reduction tree, implemented and synthesized in Cadence RTL-to-GDS flow as part of a semi-custom VLSI design project.
 
